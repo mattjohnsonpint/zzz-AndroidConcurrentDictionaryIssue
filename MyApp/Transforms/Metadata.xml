@@ -1,0 +1,8 @@
+<metadata>
+
+  <!-- Set a default namespace -->
+  <attr path="/api/package[@name='mylib']" name="managedName">MyLib</attr>
+
+
+</metadata>
+  
